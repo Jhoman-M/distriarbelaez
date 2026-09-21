@@ -1,4 +1,4 @@
-Distriarbelaez v1.2
+Distriarbelaez
 
 Sistema de gestión comercial en Python (Tkinter/CustomTkinter) y SQLite. Administra inventario, facturación, clientes y reportes.
 
